@@ -12,3 +12,9 @@ where `<dir_name>` is a directory, containing your pdfs
 
 - python 3
 - PyPDF2
+
+# TODO
+
+- Check all prohibited symbols in a file name (only ':' is checked now)
+- Check linux state
+- Try to get info from the pdf text in case if metadata is unavailable
